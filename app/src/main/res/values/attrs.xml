@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="Cube">
+        <attr name="rotationX" format="float"/>
+        <attr name="rotationY" format="float"/>
+        <attr name="rotationZ" format="float"/>
+        <attr name="wireThickness" format="dimension"/>
+        <attr name="wireColor" format="color"/>
+    </declare-styleable>
+</resources>
